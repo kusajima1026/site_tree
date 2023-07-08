@@ -1,0 +1,53 @@
+.kusajima1026{
+    background: #eee;
+    display: inline-block;
+    height: 400px;
+    width: 600px;
+}
+
+.pc{
+    margin: 0 10px;
+    background: #ddd;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+
+.tomako{
+    margin: 0 10px;
+    background: #ddd;
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+}
+
+h1{
+    padding: 0 5px;
+}
+
+a{
+    padding: 0 15px;
+    color: blue;
+    text-decoration: none;
+}
+
+.flex{
+    margin-top: 1em;
+    display: flex;
+}
+
+.div_wasd{
+    margin: 0 10px;
+    background: #ddd;
+    display: inline-block;
+    height: 100px;
+    width: 120px;
+}
+
+.site_tree{
+    margin: 0 10px;
+    background: #ddd;
+    display: inline-block;
+    height: 100px;
+    width: 120px;
+}
